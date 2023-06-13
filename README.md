@@ -1,5 +1,7 @@
 ### 我的文章
 
+- [什么是高可用服务？](https://mp.weixin.qq.com/s/YfsRVhvwWYfCtKXnL8wnDQ)
+
 - [轻量级熔断降级框架 alibaba sentinel 应用](https://mp.weixin.qq.com/s/0LbMI8ySNmygouhJg_AaRQ)
 
 - [你是怎么学习 Java 技术的？](https://mp.weixin.qq.com/s/1PnbyDSEVuzyx7wADYMOYA)
