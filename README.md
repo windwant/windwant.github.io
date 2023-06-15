@@ -1,5 +1,7 @@
 ### 我的文章
 
+- [从 SpringApplication 认识 Spring 应用启动过程](https://mp.weixin.qq.com/s/KFsdOYc7RYxGBFiHqoyJYw)
+
 - [什么是高可用服务？](https://mp.weixin.qq.com/s/YfsRVhvwWYfCtKXnL8wnDQ)
 
 - [轻量级熔断降级框架 alibaba sentinel 应用](https://mp.weixin.qq.com/s/0LbMI8ySNmygouhJg_AaRQ)
