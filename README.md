@@ -1,5 +1,11 @@
 ### 我的文章
 
+- [你要有自己的影响力](https://mp.weixin.qq.com/s/XA82ARaBw9HiYpGNRWxY-g)
+
+- [你用过哪些涉及模式（一）？](https://mp.weixin.qq.com/s/2VQq0LGhV9cFmsBCQTvNqg)
+
+- [什么是能力](https://mp.weixin.qq.com/s/nDUNoczxlKbme7I2OcaiDg)
+
 - [研发流程不只是一个流程](https://mp.weixin.qq.com/s/s6diOu5Ua6hh7SC7X_EXWQ)
 
 - [MySql InnoDB 存储引擎表优化（二）](https://mp.weixin.qq.com/s/0yL7zudBCtXKR-UIJEIYAQ)
