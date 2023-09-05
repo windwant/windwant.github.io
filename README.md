@@ -1,8 +1,18 @@
 ### 我的文章
 
+- [MySQL InnoDB 是怎么使用 B+ 树存数据的？](https://mp.weixin.qq.com/s/Ibar15H2Zmua6AVgiLHRZg)
+
+- [你好，我是B树](https://mp.weixin.qq.com/s/ghgp4VTzbGihEa2OeB_M8Q)
+
+- [浅谈双机房的那些事](https://mp.weixin.qq.com/s/Dfooi9oA3CVththGAnVnDg)
+
+- [盘一盘高性能设计的那些点（二）](https://mp.weixin.qq.com/s/hgHqn18QQmwIfDwmM6LGEQ)
+  
+- [盘一盘那些高性能设计的点（一）](https://mp.weixin.qq.com/s/TwCEaXIPPS_YRFVmasP1ig)
+
 - [你要有自己的影响力](https://mp.weixin.qq.com/s/XA82ARaBw9HiYpGNRWxY-g)
 
-- [你用过哪些涉及模式（一）？](https://mp.weixin.qq.com/s/2VQq0LGhV9cFmsBCQTvNqg)
+- [你用过哪些设计模式（一）？](https://mp.weixin.qq.com/s/2VQq0LGhV9cFmsBCQTvNqg)
 
 - [什么是能力](https://mp.weixin.qq.com/s/nDUNoczxlKbme7I2OcaiDg)
 
